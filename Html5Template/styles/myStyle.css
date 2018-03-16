@@ -1,0 +1,56 @@
+body 
+
+{
+
+   direction:rtl;
+   background-image: url(“../images/view.jpg”);
+   background-size: 960px 720px;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+div #container{
+
+width: 960px;
+margin: 0px;
+background-color: antiquewhite;
+border-color: darkred;
+
+
+}
+
+div h1{
+
+color: maroon;
+margin-right: 480px;
+font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+div h2{
+
+    color: maroon;
+    margin-right: 480px;
+    font-family: Arial, Helvetica, sans-serif;
+
+} 
+
+div p{
+
+    color: maroon;
+margin-right: 480px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+div ul{
+
+
+    color: maroon;
+margin-right: 480px;
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
